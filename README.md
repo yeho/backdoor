@@ -8,3 +8,6 @@ posibles comandos:<br>
 0 -> cierra la conexion<br>
 1 -> informacion del sistema<br>
 2 -> devuelve el contenido de un directorio en particular<br>
+
+#configurando CI
+
